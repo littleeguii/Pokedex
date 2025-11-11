@@ -6,8 +6,8 @@ const generations = [
     { id: 5, name: "Gen 5: Unova", start: 494, end: 649, color: "#FF9800" },
     { id: 6, name: "Gen 6: Kalos", start: 650, end: 721, color: "#00BCD4" },
     { id: 7, name: "Gen 7: Alola", start: 722, end: 809, color: "#FFC107" },
-    { id: 8, name: "Gen 8: Galar", start: 810, end: 898, color: "#795548" },
-    { id: 9, name: "Gen 9: Paldea", start: 899, end: 1025, color: "#E91E63" }
+    { id: 8, name: "Gen 8: Galar", start: 810, end: 905, color: "#795548" },
+    { id: 9, name: "Gen 9: Paldea", start: 906, end: 1025, color: "#E91E63" }
 ];
 
 
